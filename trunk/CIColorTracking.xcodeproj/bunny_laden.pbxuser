@@ -1,0 +1,179 @@
+// !$*UTF8*$!
+{
+	012D2A990BD543E50056A1D1 /* ReadMe.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1019, 867}}";
+			sepNavSelRange = "{859, 0}";
+			sepNavVisRect = "{{0, 0}, {1019, 867}}";
+			sepNavWindowFrame = "{{591, 32}, {1058, 996}}";
+		};
+	};
+	01656E9A0B9010A800012B69 /* VideoHandler.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {784, 1344}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {784, 809}}";
+			sepNavWindowFrame = "{{79, 64}, {823, 938}}";
+		};
+	};
+	01656E9B0B9010A800012B69 /* VideoHandler.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1280, 4416}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 3607}, {784, 809}}";
+			sepNavWindowFrame = "{{102, 43}, {823, 938}}";
+		};
+	};
+	01DABBA40B8CEB4100B279A3 /* VideoCIView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {784, 1088}}";
+			sepNavSelRange = "{101, 0}";
+			sepNavVisRect = "{{0, 0}, {784, 809}}";
+			sepNavWindowFrame = "{{767, 90}, {823, 938}}";
+		};
+	};
+	01DABBA50B8CEB4100B279A3 /* VideoCIView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {846, 3344}}";
+			sepNavSelRange = "{120, 0}";
+			sepNavVisRect = "{{0, 0}, {784, 809}}";
+			sepNavWindowFrame = "{{785, 90}, {823, 938}}";
+		};
+	};
+	01DABBA70B8CEDCE00B279A3 /* AppController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {784, 1600}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {784, 809}}";
+			sepNavWindowFrame = "{{56, 85}, {823, 938}}";
+		};
+	};
+	01DABBA80B8CEDCE00B279A3 /* AppController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1336, 5248}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {784, 809}}";
+			sepNavWindowFrame = "{{79, 64}, {823, 938}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = FB2F26B50B9650AA00A14A0F /* CIColorTracking */;
+		activeTarget = 8D1107260486CEB800E47090 /* CIColorTracking */;
+		codeSenseManager = FB2F26CC0B9650AB00A14A0F /* Code sense */;
+		executables = (
+			FB2F26B50B9650AA00A14A0F /* CIColorTracking */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					331,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 199041235;
+			PBXWorkspaceStateSaveDate = 199041235;
+		};
+		perUserProjectItems = {
+			FB0D54D20BDD208B005A2DD4 /* PBXTextBookmark */ = FB0D54D20BDD208B005A2DD4 /* PBXTextBookmark */;
+			FBA511CB0BDD20E0001DF9AC /* PBXTextBookmark */ = FBA511CB0BDD20E0001DF9AC /* PBXTextBookmark */;
+		};
+		sourceControlManager = FB2F26CB0B9650AB00A14A0F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {784, 1072}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {784, 809}}";
+			sepNavWindowFrame = "{{125, 22}, {823, 938}}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* CIColorTracking_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {784, 809}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {784, 809}}";
+			sepNavWindowFrame = "{{102, 43}, {823, 938}}";
+		};
+	};
+	8D1107260486CEB800E47090 /* CIColorTracking */ = {
+		activeExec = 0;
+		executables = (
+			FB2F26B50B9650AA00A14A0F /* CIColorTracking */,
+		);
+	};
+	FB0D54D20BDD208B005A2DD4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 012D2A990BD543E50056A1D1 /* ReadMe.txt */;
+		name = "ReadMe.txt: 15";
+		rLen = 0;
+		rLoc = 859;
+		rType = 0;
+		vrLen = 2997;
+		vrLoc = 0;
+	};
+	FB2F26B50B9650AA00A14A0F /* CIColorTracking */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CIColorTracking;
+		sourceDirectories = (
+		);
+	};
+	FB2F26CB0B9650AB00A14A0F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	FB2F26CC0B9650AB00A14A0F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	FBA511CB0BDD20E0001DF9AC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 012D2A990BD543E50056A1D1 /* ReadMe.txt */;
+		name = "ReadMe.txt: 15";
+		rLen = 0;
+		rLoc = 859;
+		rType = 0;
+		vrLen = 2997;
+		vrLoc = 0;
+	};
+}

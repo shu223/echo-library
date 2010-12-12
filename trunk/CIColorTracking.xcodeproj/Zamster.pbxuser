@@ -1,0 +1,128 @@
+// !$*UTF8*$!
+{
+	01DABBA80B8CEDCE00B279A3 /* AppController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {992, 4108}}";
+			sepNavSelRange = "{7269, 0}";
+			sepNavVisRange = "{6853, 878}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 5D3AB01312ABC99300F25FC2 /* CIColorTracking */;
+		activeTarget = 8D1107260486CEB800E47090 /* CIColorTracking */;
+		codeSenseManager = 5D3AB02F12ABC99600F25FC2 /* Code sense */;
+		executables = (
+			5D3AB01312ABC99300F25FC2 /* CIColorTracking */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 313248147;
+			PBXWorkspaceStateSaveDate = 313248147;
+		};
+		perUserProjectItems = {
+			5D3AB05712ABCA2B00F25FC2 /* PlistBookmark */ = 5D3AB05712ABCA2B00F25FC2 /* PlistBookmark */;
+			5D3AB05812ABCA2B00F25FC2 /* PBXBookmark */ = 5D3AB05812ABCA2B00F25FC2 /* PBXBookmark */;
+			5D3AB05912ABCA2B00F25FC2 /* PBXTextBookmark */ = 5D3AB05912ABCA2B00F25FC2 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5D3AB02E12ABC99600F25FC2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	5D3AB01312ABC99300F25FC2 /* CIColorTracking */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CIColorTracking;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	5D3AB02E12ABC99600F25FC2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	5D3AB02F12ABC99600F25FC2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5D3AB05712ABCA2B00F25FC2 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/Zamster/Downloads/Final_Object_Tracking_Apr_30/CIColorTracking/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	5D3AB05812ABCA2B00F25FC2 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 01DABBA80B8CEDCE00B279A3 /* AppController.m */;
+	};
+	5D3AB05912ABCA2B00F25FC2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 01DABBA80B8CEDCE00B279A3 /* AppController.m */;
+		name = "AppController.m: 155";
+		rLen = 0;
+		rLoc = 7269;
+		rType = 0;
+		vrLen = 878;
+		vrLoc = 6853;
+	};
+	8D1107260486CEB800E47090 /* CIColorTracking */ = {
+		activeExec = 0;
+		executables = (
+			5D3AB01312ABC99300F25FC2 /* CIColorTracking */,
+		);
+	};
+}
